@@ -1,0 +1,18 @@
+.hidden{
+    display: none;
+  }
+  
+.visible{
+    display: block;
+  }
+  
+#toggleButton{
+    color: white;
+    border-radius: 15px;
+    color: white;
+    background: linear-gradient(to right,#5170ff,#ff66c4);
+    }
+#toggleButton:hover{
+    font-weight: bold;
+    transform: scale(1.01);
+}
